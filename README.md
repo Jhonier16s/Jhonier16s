@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jhonier16s
 - 👀 I’m interested in Web development, Mobile Development and IA 🤖
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning IA
+- 📫 How to reach me Jhonierstephan16@gmail.com
 
 <!---
 Jhonier16s/Jhonier16s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
